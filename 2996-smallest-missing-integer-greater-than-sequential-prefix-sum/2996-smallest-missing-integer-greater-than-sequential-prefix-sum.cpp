@@ -4,7 +4,6 @@ public:
 
         int n = nums.size();
 
-        // Find sum of longest sequential prefix
         int ans = nums[0];
 
         for (int i = 1; i < n; i++) {
@@ -16,8 +15,6 @@ public:
                 break;
             }
         }
-
-        // Find smallest missing integer >= ans
         while (find(nums.begin(), nums.end(), ans) != nums.end()) {
             ans++;
         }
