@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0009-palindrome-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## DP on Trees
 |  |
