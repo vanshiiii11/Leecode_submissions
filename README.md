@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-transpose-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0867-transpose-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
