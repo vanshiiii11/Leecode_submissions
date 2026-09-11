@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## DP on Trees
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0136-single-number) |
