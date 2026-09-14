@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -118,17 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
