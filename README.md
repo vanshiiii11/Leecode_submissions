@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
