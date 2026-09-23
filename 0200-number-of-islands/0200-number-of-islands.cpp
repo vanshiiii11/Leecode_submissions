@@ -12,15 +12,9 @@ public:
         return true;
     }
 
-    void dfs(vector<vector<char>>& grid,
-             int n, int m,
-             int i, int j,
-             vector<vector<bool>>& visited) {
-
+    void dfs(vector<vector<char>>& grid,int n, int m, int i, int j,vector<vector<bool>>& visited) {
         visited[i][j] = true;
-
         for(int k = 0; k < 4; k++) {
-
             int row = i + x[k];
             int col = j + y[k];
 
