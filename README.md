@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3908-valid-digit-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3908-valid-digit-number) |
 ## DP on Trees
 |  |
 | ------- |
