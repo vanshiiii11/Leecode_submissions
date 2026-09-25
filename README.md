@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0605-can-place-flowers](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0605-can-place-flowers) |
 | [0867-transpose-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
 ## Simulation
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
