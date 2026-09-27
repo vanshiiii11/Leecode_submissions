@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0319-bulb-switcher) |
 | [1154-day-of-the-year](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3908-valid-digit-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3908-valid-digit-number) |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
