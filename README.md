@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0605-can-place-flowers) |
 | [0867-transpose-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
