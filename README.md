@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
+| [1154-day-of-the-year](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3908-valid-digit-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3908-valid-digit-number) |
 ## DP on Trees
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0079-word-search) |
+| [1154-day-of-the-year](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1154-day-of-the-year) |
 ## Bracket Sequences
 |  |
 | ------- |
