@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0319-bulb-switcher) |
 | [1154-day-of-the-year](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3908-valid-digit-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3908-valid-digit-number) |
 ## DP on Trees
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
