@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1025-divisor-game) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1748-sum-of-unique-elements](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1748-sum-of-unique-elements) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Monotonic Stack
 |  |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1025-divisor-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
