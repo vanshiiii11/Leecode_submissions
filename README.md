@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0202-happy-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0066-plus-one) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0079-word-search) |
