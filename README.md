@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0785-is-graph-bipartite) |
 ## Greedy
 |  |
 | ------- |
@@ -270,4 +273,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0202-happy-number) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
