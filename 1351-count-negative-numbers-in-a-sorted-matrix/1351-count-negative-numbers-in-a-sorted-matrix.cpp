@@ -4,10 +4,15 @@ public:
         int rows=grid.size();
         int cols=grid[0].size();
         int cnt=0;
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
-                if(grid[i][j]<0)cnt++;
+        int i=0;
+        int j=cols-1;
+        while(i<rows && j>=0){
+            if(grid[i][j]<0){
+                cnt+=rows-i;
+                j--;
             }
+            else i++;
+
         }
         return cnt;
     }
