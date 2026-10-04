@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2057-smallest-index-with-equal-value) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
