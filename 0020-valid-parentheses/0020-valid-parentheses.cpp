@@ -10,12 +10,12 @@ public:
                 if(st.empty())return false;
                 char front=st.top();
                 st.pop();
-                if(front=='(' && s[i]!=')' || front=='{' && s[i]!='}' || front=='[' || s[i]!=']'){
+                if((front=='(' && s[i]!=')') || (front=='{' && s[i]!='}' )|| (front=='[' && s[i]!=']')){
                     return false;
                 }
             }
         }
-        return true;
+        return st.empty();
         
     }
 };
