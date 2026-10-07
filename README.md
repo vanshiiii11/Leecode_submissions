@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1748-sum-of-unique-elements](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0316-remove-duplicate-letters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1154-day-of-the-year](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1154-day-of-the-year) |
 ## Bracket Sequences
 |  |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0785-is-graph-bipartite) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
