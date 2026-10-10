@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1025-divisor-game) |
 ## Array
 |  |
@@ -197,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1154-day-of-the-year](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1154-day-of-the-year) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
