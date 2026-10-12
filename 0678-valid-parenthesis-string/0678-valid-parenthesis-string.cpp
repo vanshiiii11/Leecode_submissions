@@ -2,21 +2,24 @@ class Solution {
 public:
     bool checkValidString(string s) {
         int n=s.size();
-        int i=0, j=0;
-        for(int l=0;l<n;l++){
-            if(s[l]=='('){
-                i++,j++;
+        int l=0, r=0;
+        for(int i=0;i<n;i++){
+            if(s[i]=='('){
+                l++;
+                r++;
             }
-            else if(s[l]==')'){
-                i--,j--;
+            else if(s[i]==')'){
+                l--;
+                r--;
             }
             else {
-                i--;
-                j++;
+                l--;
+                r++;
             }
-            if(j<0)return false;
-            else if(i<0)i=0;
+            if(l<0)l=0;
+            else if(r<0)return false;
+            
         }
-        return i==0;
+        return l==0;
     }
 };
