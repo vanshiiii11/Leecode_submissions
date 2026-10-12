@@ -17,7 +17,7 @@ public:
                 r++;
             }
             if(l<0)l=0;
-            else if(r<0)return false;
+            if(r<0)return false;
             
         }
         return l==0;
