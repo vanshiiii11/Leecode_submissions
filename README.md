@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3908-valid-digit-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3908-valid-digit-number) |
