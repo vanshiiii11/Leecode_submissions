@@ -339,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0881-boats-to-save-people) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
