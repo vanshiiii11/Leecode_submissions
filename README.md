@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0268-missing-number) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1084-sales-analysis-iii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
