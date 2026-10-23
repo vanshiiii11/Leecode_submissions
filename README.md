@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1148-article-views-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Newton's Method
 |  |
 | ------- |
