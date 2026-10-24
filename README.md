@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0994-rotting-oranges) |
+| [1200-minimum-absolute-difference](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1200-minimum-absolute-difference) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1748-sum-of-unique-elements) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0881-boats-to-save-people](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0881-boats-to-save-people) |
+| [1200-minimum-absolute-difference](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1200-minimum-absolute-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
