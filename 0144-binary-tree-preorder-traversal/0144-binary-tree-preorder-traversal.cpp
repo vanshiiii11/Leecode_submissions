@@ -31,11 +31,9 @@
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int>ans;
+        vector<int >ans;
         stack<TreeNode*>st;
-        if(root==NULL){
-            return ans;
-        }
+        if(root==NULL)return ans;
         st.push(root);
         while(!st.empty()){
             root=st.top();
