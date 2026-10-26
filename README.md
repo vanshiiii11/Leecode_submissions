@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1025-divisor-game) |
 ## Array
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
