@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2057-smallest-index-with-equal-value) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0881-boats-to-save-people](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1200-minimum-absolute-difference) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
