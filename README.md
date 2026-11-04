@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
