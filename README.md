@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1154-day-of-the-year](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1154-day-of-the-year) |
+| [3110-score-of-a-string](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3110-score-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
