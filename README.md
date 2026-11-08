@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1470-shuffle-the-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2057-smallest-index-with-equal-value) |
