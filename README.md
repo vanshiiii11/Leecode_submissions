@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1436-destination-city](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1436-destination-city) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1470-shuffle-the-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [1436-destination-city](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vanshiiii11/Leecode_submissions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/vanshiiii11/Leecode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1154-day-of-the-year](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1154-day-of-the-year) |
+| [1436-destination-city](https://github.com/vanshiiii11/Leecode_submissions/tree/master/1436-destination-city) |
 | [3110-score-of-a-string](https://github.com/vanshiiii11/Leecode_submissions/tree/master/3110-score-of-a-string) |
 ## Bracket Sequences
 |  |
